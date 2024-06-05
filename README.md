@@ -1,5 +1,3 @@
-I want to explain info about this repo. This repo contains diferents mini project about all concept of python object oriented programming
-
 # Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
